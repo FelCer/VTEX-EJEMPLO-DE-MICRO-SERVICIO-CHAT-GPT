@@ -8,7 +8,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Cambiar lenguaje de README a [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/FelCer/vtex-context/blob/main/docs/README.en.md)
+Cambiar lenguaje de README a [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/FelCer/VTEX-EJEMPLO-DE-MICRO-SERVICIO-CHAT-GPT/blob/main/docs/README.en.md)
 
 Esta aplicación para consultar un producto y con el nombre decirle al openai que nos de una buena descripción.
 <br>
