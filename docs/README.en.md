@@ -8,7 +8,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Change language from README to [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/FelCer/vtex-context/blob/main/docs/README.md)
+Change language from README to [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/FelCer/VTEX-EJEMPLO-DE-MICRO-SERVICIO-CHAT-GPT/blob/main/docs/README.md)
 
 This application to consult a product and with the name says when opening that it gives us a good description.
 <br>
