@@ -37,7 +37,7 @@ Thanks goes to these wonderful people: ([emoji key](https://allcontributors.org/
 
 <table>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/22477264?v=4" width="100px;" alt=""/><br /><sub><b>Luis Felipe Cerero Garcia</b></sub></a><br /><a href="https://github.com/ITGlobers/showcase-cencosud/commits?author=felcer" title="Documentation">📖</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/22477264?v=4" width="100px;" alt=""/><br /><sub><b>Luis Felipe Cerero Garcia</b></sub></a><br /><a href="https://github.com/FelCer/VTEX-EJEMPLO-DE-MICRO-SERVICIO-CHAT-GPT/commits?author=felcer" title="Documentation">📖</td>
   </tr>
 </table>
 
